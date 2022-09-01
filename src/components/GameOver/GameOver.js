@@ -1,6 +1,6 @@
 import React,{Component} from 'react';
 import './GameOver.css'
-import obrazek from './scarry.png'
+
 
 class GameOver extends Component {
     state = {  } 
