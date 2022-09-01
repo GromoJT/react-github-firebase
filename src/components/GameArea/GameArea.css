@@ -1,0 +1,7 @@
+.gameField{
+    aspect-ratio: 1/1;
+    height: 50%;
+    
+    background-color: brown;
+    position: relative;
+}
